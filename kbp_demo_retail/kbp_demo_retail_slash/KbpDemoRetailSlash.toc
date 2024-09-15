@@ -1,0 +1,7 @@
+## Interface: 50400
+## Title: Backport demo retail
+## Notes: Serves as collection of simple slash command functions
+## Author: NopGtb
+## Version: 0.0.1
+
+KBP_DRS.lua

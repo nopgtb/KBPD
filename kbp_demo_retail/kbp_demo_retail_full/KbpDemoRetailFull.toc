@@ -1,0 +1,16 @@
+## Interface: 50400
+## Title: Backport demo full
+## Notes: Simple addon 
+## Author: NopGtb
+## Version: 0.0.1
+
+#Load libaries
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Libs\LibDBIcon-1.0\lib.xml
+
+#Load local files
+Locales.xml
+Interface.xml
+KBP_DRF.lua
